@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Course Project
 
-This repository hosts the R script (code) and documentation files for the Coursera Data Science's
+This repository contains the R script (code) and documentation files for the Coursera Data Science's
 track course "Getting and Cleaning data".
 
 ## Files
