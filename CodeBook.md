@@ -45,7 +45,7 @@ Merged data:
 Names applied to data sets:
 * `features` contains the correct names for the `x_data` dataset
 
-Names
+Names:
  [1] "subjectId"                      
  [2] "activityId"                     
  [3] "tBodyAcc-mean()-X"              
