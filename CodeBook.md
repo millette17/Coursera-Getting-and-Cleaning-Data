@@ -45,8 +45,7 @@ Merged data:
 Names applied to data sets:
 * `features` contains the correct names for the `x_data` dataset
 
-Names:
- 
+Names:     
  [1] "subjectId"                      
  [2] "activityId"                     
  [3] "tBodyAcc-mean()-X"              
@@ -127,5 +126,5 @@ Names:
 [78] "fBodyBodyGyroMag-meanFreq()"    
 [79] "fBodyBodyGyroJerkMag-mean()"    
 [80] "fBodyBodyGyroJerkMag-std()"     
-[81] "fBodyBodyGyroJerkMag-meanFreq()"
-[82] "activityType"   
+[81] "fBodyBodyGyroJerkMag-meanFreq()"     
+[82] "activityType"
